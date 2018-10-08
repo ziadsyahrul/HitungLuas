@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hitung Luas X RPL C</string>
+
+    <string name="nama">Faruq</string>
+    <string name="start">Start</string>
+    <string name="hitung">Hitung</string>
+    <string name="menghitung_luas_persegi_panjang">Menghitung Luas Persegi panjang :</string>
+</resources>
